@@ -9,7 +9,6 @@ const reverseString = (arr) => {
 }
 
 const test = ['a', 'b', 'c', 'd', 'f', 'g'];
-// ['d', 'c', 'b', 'a']
 
 console.log(reverseString(test));
 
